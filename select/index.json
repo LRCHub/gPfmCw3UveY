@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Television / So Far So Good",
+  "base_artist": "Rex Orange County",
+  "createdAt": "2025-12-13T15:52:01.420992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Live Television",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/01_Live_Television_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Television Man",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/02_Television_Man_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Television Man",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/03_Television_Man_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Television",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/04_Television_Japan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Television Snow",
+      "artist": "Johnny Jewel feat. Symmetry",
+      "has_synced": false,
+      "path": "select/05_Television_Snow_Johnny_Jewel_feat._Symmetry.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Television Snow",
+      "artist": "Johnny Jewel with Symmetry",
+      "has_synced": false,
+      "path": "select/06_Television_Snow_Johnny_Jewel_with_Symmetry.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kill Your Television",
+      "artist": "Ned's Atomic Dustbin",
+      "has_synced": false,
+      "path": "select/07_Kill_Your_Television_Ned's_Atomic_Dustbin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kill Your Television",
+      "artist": "Ned's Atomic Dustbin",
+      "has_synced": true,
+      "path": "select/08_Kill_Your_Television_Ned's_Atomic_Dustbin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Will Never Work In Television Again",
+      "artist": "The Smile",
+      "has_synced": true,
+      "path": "select/09_You_Will_Never_Work_In_Television_Again_The_Smile.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Will Never Work In Television Again",
+      "artist": "The Smile",
+      "has_synced": true,
+      "path": "select/10_You_Will_Never_Work_In_Television_Again_The_Smile.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Television Man - Extended Mix",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/11_Television_Man_-_Extended_Mix_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Television Man (Extended Mix)",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/12_Television_Man_(Extended_Mix)_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Antichrist Television Blues)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/13_(Antichrist_Television_Blues)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Television Rules the Nation",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/14_Television_Rules_the_Nation_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Television Rules The Nation / Crescendolls",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/15_Television_Rules_The_Nation___Crescendolls_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Television Rules The Nation \u0000 Crescendolls",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/16_Television_Rules_The_Nation_\u0000_Crescendolls_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Soft Parade (Live On PBS Television, New York, 1970)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/17_The_Soft_Parade_(Live_On_PBS_Television,_New_York,_1970)_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/18_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Television / So Far So Good",
+      "artist": "Rex Orange County",
+      "has_synced": false,
+      "path": "select/pl_01_Television___So_Far_So_Good_Rex_Orange_County.txt"
+    }
+  ]
+}
